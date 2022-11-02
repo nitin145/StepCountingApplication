@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StepCountingApplication</string>
+    <string name="error_camera_permission" />
+</resources>
